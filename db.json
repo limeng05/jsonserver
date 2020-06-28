@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "v1/posts": [
     {
       "id": 1,
       "title": "hello"
+    }
+  ],
+  "v2/posts": [
+    {
+      "id": 2,
+      "title": "world"
     }
   ],
   "profile": {
